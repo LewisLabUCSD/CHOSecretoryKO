@@ -1,0 +1,70 @@
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+-- note: fitType='parametric', but the dispersion trend was not well captured by the
+   function: y = a/x + b, and a local regression fit was automatically substituted.
+   specify fitType='local' or 'mean' to avoid this message next time.
+final dispersion estimates
+fitting model and testing
+
+Attaching package: ???gplots???
+
+The following object is masked from ???package:IRanges???:
+
+    space
+
+The following object is masked from ???package:S4Vectors???:
+
+    space
+
+The following object is masked from ???package:stats???:
+
+    lowess
+
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+-- note: fitType='parametric', but the dispersion trend was not well captured by the
+   function: y = a/x + b, and a local regression fit was automatically substituted.
+   specify fitType='local' or 'mean' to avoid this message next time.
+final dispersion estimates
+fitting model and testing
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+Warning messages:
+1: In DESeqDataSet(se, design = design, ignoreRank) :
+  13 duplicate rownames were renamed by adding numbers
+2: In DESeqDataSet(se, design = design, ignoreRank) :
+  13 duplicate rownames were renamed by adding numbers
+3: In DESeqDataSet(se, design = design, ignoreRank) :
+  13 duplicate rownames were renamed by adding numbers
+4: In DESeqDataSet(se, design = design, ignoreRank) :
+  13 duplicate rownames were renamed by adding numbers
+5: In DESeqDataSet(se, design = design, ignoreRank) :
+  13 duplicate rownames were renamed by adding numbers
+6: In DESeqDataSet(se, design = design, ignoreRank) :
+  13 duplicate rownames were renamed by adding numbers
